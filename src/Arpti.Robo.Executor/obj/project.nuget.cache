@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvxELn/kS8uO27o09+BcqoCNWYwtcG6hBmXgFLOR5jlNjemVIRxvTiejV2RpXPhhvnKeJUM7AurrWJHnr1E3pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafa1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafa1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafa1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

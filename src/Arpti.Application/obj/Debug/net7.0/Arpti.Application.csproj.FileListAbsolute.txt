@@ -1,0 +1,12 @@
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\bin\Debug\net7.0\Arpti.Application.deps.json
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\bin\Debug\net7.0\Arpti.Application.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\bin\Debug\net7.0\Arpti.Application.pdb
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.csproj.AssemblyReference.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.AssemblyInfoInputs.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.AssemblyInfo.cs
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.csproj.CoreCompileInputs.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\refint\Arpti.Application.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\Arpti.Application.pdb
+C:\Users\rafa1\OneDrive\Documentos\aspti\arpti-back-end\src\Arpti.Application\obj\Debug\net7.0\ref\Arpti.Application.dll
