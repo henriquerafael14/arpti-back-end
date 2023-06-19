@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pao4b7Brg+H/eJiFy0OI31YXKhC0dCy5LoCLCXkXAPiagOq6bOeKHaF68Onb4p2cZnnStNLsBgGaXElbCr4ZPg==",
+  "dgSpecHash": "1JIZBdRtf9GJQZ13jZXJgmynnEdT4x/MnK++bxTFp8k5221oCIB4HE1vzXZVWic9w0P2nkOut/7rD+PbdI+peQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Arpti.Infra.CrossCutting.RabbitMq;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace Arpi.Robo.API.Controllers
 {
@@ -6,10 +8,19 @@ namespace Arpi.Robo.API.Controllers
     [ApiController]
     public class RoboController : Controller
     {
-        [HttpGet]
-        public IActionResult Index()
+        private readonly RabbitMQService _rabbitMQService;
+
+        public RoboController()
         {
-            return View();
+            _rabbitMQService = new RabbitMQService("queue_instalacao");
+        }
+
+        [HttpGet("instalacao-winrar")]
+        public async Task<IActionResult> InstalacaoWinRAR()
+        {
+            // Envia uma mensagem para a fila do RabbitMQ
+            _rabbitMQService.EnqueueMessage("WinRAR");
+            return Ok("Solicitação de instalação enviada com sucesso");
         }
     }
 }

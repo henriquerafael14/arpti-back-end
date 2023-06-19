@@ -639,12 +639,18 @@
       },
       "Arpti.Domain/1.0.0": {
         "dependencies": {
+          "Arpti.Infra.CrossCutting": "1.0.0",
           "AutoMapper": "12.0.1",
           "LinqKit": "1.2.4",
           "Microsoft.Extensions.Identity.Stores": "7.0.5"
         },
         "runtime": {
           "Arpti.Domain.dll": {}
+        }
+      },
+      "Arpti.Infra.CrossCutting/1.0.0": {
+        "runtime": {
+          "Arpti.Infra.CrossCutting.dll": {}
         }
       }
     }
@@ -1062,6 +1068,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "Arpti.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arpti.Infra.CrossCutting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

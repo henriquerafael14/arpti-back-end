@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj": {}
+    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj": {
+    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj",
+        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj",
         "projectName": "Arpti.Robo.Executor",
-        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj",
+        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Robo.Executor\\Arpti.Robo.Executor.csproj",
         "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Robo.Executor\\obj\\",
+        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Robo.Executor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FlaUI.Core": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "FlaUI.UIA3": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,20 +64,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

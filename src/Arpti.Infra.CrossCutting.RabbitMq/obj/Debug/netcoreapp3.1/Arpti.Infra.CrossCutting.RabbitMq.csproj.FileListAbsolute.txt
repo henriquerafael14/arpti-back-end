@@ -1,0 +1,10 @@
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\bin\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.deps.json
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\bin\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\bin\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.pdb
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.csproj.AssemblyReference.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.AssemblyInfoInputs.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.AssemblyInfo.cs
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\obj\Debug\netcoreapp3.1\Arpti.Infra.CrossCutting.RabbitMq.pdb

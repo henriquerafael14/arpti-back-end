@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RQh5gtSWqcNF2vitJETWd6MPHeTITRGSWqaVqN2ztMRsnoY5ca0cfwCHaaEX5cRxg2Av5fMX+NAycsJPjDujDQ==",
+  "dgSpecHash": "i7+Hpk+va2cQ17QhsF88woi5MhbaNEGFoDiZwMh51BepzEl4+XTxW0NfXwfcCvn5xcReir1BeUrqeUKDFf+YUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
+  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafa1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rafa1\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",

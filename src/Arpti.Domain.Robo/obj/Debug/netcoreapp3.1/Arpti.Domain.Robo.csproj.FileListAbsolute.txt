@@ -1,0 +1,10 @@
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\bin\Debug\netcoreapp3.1\Arpti.Domain.Robo.deps.json
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\bin\Debug\netcoreapp3.1\Arpti.Domain.Robo.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\bin\Debug\netcoreapp3.1\Arpti.Domain.Robo.pdb
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.csproj.AssemblyReference.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.AssemblyInfoInputs.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.AssemblyInfo.cs
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.csproj.CoreCompileInputs.cache
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.dll
+C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Domain.Robo\obj\Debug\netcoreapp3.1\Arpti.Domain.Robo.pdb

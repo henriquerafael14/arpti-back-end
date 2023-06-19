@@ -1710,11 +1710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
       "projectName": "Arpti.Domain",
-      "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
+      "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
       "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Domain\\obj\\",
+      "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1731,8 +1731,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj"
+            "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj"
             }
           }
         }

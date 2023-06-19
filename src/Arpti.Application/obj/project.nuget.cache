@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQeg3005HMX4wFD1AG294NQjv8UciKHmekvlDf4C3nqPK2ZKKkotw07O/D7Pi7mLHDuxgAfDs0gVU8Q6BKFu7Q==",
+  "dgSpecHash": "gbRD3LcfZo9dgtMsi471qBpZvXdFMGdPKR19oeJCdyk5kgceS51v2pakgVFhLAH/Yfg9qjVISpW3ttU+rcBMCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Application\\Arpti.Application.csproj",
+  "projectFilePath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Application\\Arpti.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafa1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rafa1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

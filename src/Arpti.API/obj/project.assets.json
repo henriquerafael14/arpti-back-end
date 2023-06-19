@@ -3280,11 +3280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
+      "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
       "projectName": "Arpti.API",
-      "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
+      "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
       "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.API\\obj\\",
+      "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3301,8 +3301,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj"
+            "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj"
             }
           }
         }

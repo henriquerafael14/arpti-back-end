@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Arpti.Infra.CrossCutting.RabbitMq
+build_property.ProjectDir = C:\Users\rafa1\OneDrive\Documentos\aspti\Arpti\arpti-back-end\src\Arpti.Infra.CrossCutting.RabbitMq\
