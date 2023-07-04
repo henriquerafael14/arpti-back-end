@@ -827,19 +827,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafa1\\.nuget\\packages\\": {}
+    "C:\\Users\\Rafael\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpi.Robo.API\\Arpi.Robo.API.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpi.Robo.API\\Arpi.Robo.API.csproj",
       "projectName": "Arpi.Robo.API",
-      "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpi.Robo.API\\Arpi.Robo.API.csproj",
-      "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpi.Robo.API\\obj\\",
+      "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpi.Robo.API\\Arpi.Robo.API.csproj",
+      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpi.Robo.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -853,8 +853,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj": {
-              "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj"
+            "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj": {
+              "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj"
             }
           }
         }

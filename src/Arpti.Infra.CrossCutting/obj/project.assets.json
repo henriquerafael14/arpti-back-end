@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rafa1\\.nuget\\packages\\": {}
+    "C:\\Users\\Rafael\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
       "projectName": "Arpti.Infra.CrossCutting",
-      "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
-      "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\obj\\",
+      "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
+      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

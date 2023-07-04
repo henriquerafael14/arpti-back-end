@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj": {
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
         "projectName": "Arpti.API",
-        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
-        "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.API\\obj\\",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.API\\Arpti.API.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj"
+              "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj"
               }
             }
           }
@@ -90,17 +90,17 @@
         }
       }
     },
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj": {
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
         "projectName": "Arpti.Domain",
-        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
-        "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,8 +114,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj"
+              "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj"
               }
             }
           }
@@ -163,17 +163,17 @@
         }
       }
     },
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj": {
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
         "projectName": "Arpti.Infra.CrossCutting",
-        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\Arpti.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -218,17 +218,17 @@
         }
       }
     },
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj": {
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj",
         "projectName": "Arpti.Infra.Data",
-        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.Data\\Arpti.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -242,8 +242,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj": {
-                "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj"
+              "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Domain\\Arpti.Domain.csproj"
               }
             }
           }

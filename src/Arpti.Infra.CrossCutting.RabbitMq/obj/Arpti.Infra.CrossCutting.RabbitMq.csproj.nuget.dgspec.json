@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj": {
+    "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj",
         "projectName": "Arpti.Infra.CrossCutting.RabbitMq",
-        "projectPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj",
-        "packagesPath": "C:\\Users\\rafa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa1\\OneDrive\\Documentos\\aspti\\Arpti\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\obj\\",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\Arpti.Infra.CrossCutting.RabbitMq.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\ASPTI\\arpti-back-end\\src\\Arpti.Infra.CrossCutting.RabbitMq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
